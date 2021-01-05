@@ -1,5 +1,5 @@
 # Hotel-website
-This is a static page using HTML &amp; CSS. Just download and extract the zip file and feel free to use it. Thnak you.
+This is a static page using HTML &amp; CSS. Just download and extract the zip file and feel free to use it. Thank you.
 
 # UI
 ![Screenshot_48](https://user-images.githubusercontent.com/50297349/103649805-49ab2980-4f89-11eb-850b-f7a8049c582f.png)
